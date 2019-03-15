@@ -1,9 +1,7 @@
 # Tiny LeNet designed to run on low memory, high speed
 
 # Problem Statement
-Deep Neural networks are among the most powerful machine learning techniques that are becoming very interesting for Big Data  
-applications. In the context of embedded platforms, implementing efficient DNNs in terms of performance and energy consumption while  
-they maintain a required quality is very challenging. Sparsity can be  used as an intelligent technique for reducing the size of DNNs. The  purpose of this project is to explore the possibilities of various sparsity models for LeNet which can be then used to evaluate their performance in a reconfigurable computing system.
+Deep Neural networks are among the most powerful machine learning techniques that are becoming very interesting for Big Data applications. In the context of embedded platforms, implementing efficient DNNs in terms of performance and energy consumption while they maintain a required quality is very challenging. Sparsity can be  used as an intelligent technique for reducing the size of DNNs. The  purpose of this project is to explore the possibilities of various sparsity models for LeNet which can be then used to evaluate their performance in a reconfigurable computing system.
 
 # Approach
 Part- I : Input Sparsity
