@@ -26,4 +26,6 @@ Part- II : Model sparsity
 4. CIFAR10 database
 5. Street View Housing Numbers (http://ufldl.stanford.edu/housenumbers/)
 
+#TODO
 
+1. Configure Paths 
